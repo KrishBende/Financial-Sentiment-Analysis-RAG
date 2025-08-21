@@ -1,4 +1,4 @@
-1# AI Financial Sentiment Analysis
+# AI Financial Sentiment Analysis
 
 This project demonstrates how to use AI for financial sentiment analysis, financial modeling, and question answering using a RAG pipeline.
 
