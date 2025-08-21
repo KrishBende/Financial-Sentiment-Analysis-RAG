@@ -1,4 +1,3 @@
-1
 import pandas as pd
 from transformers import pipeline
 from langchain.vectorstores import FAISS
